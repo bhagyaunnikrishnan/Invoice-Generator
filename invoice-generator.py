@@ -44,6 +44,7 @@ doc.set_item_tax_rate(6)
 doc.set_bottom_tip("Thanks for shopping with us today!")
 doc.finish()
 
+print("pdf saved as invoice.pdf")
 
 
 
